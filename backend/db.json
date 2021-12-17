@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Caneta bic preta",
+            "price": 5.89
+        },
+        {
+            "id": 2,
+            "name": "Caaaaneta bic preta",
+            "price": 5.89
+        },
+        {
+            "id": 3,
+            "name": "Caaaaaneta bic preta",
+            "price": 100.99
+        }
+    ]
+}

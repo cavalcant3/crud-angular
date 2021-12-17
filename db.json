@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Caaaaneta bic preta",
+      "price": 5.89
+    },
+    {
+      "id": 3,
+      "name": "Caaaaaneta bic preta",
+      "price": 100.99
+    },
+    {
+      "name": "pop bic azul",
+      "price": 100000,
+      "id": 4
+    }
+  ]
+}
