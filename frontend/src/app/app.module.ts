@@ -12,6 +12,7 @@ import { NavComponent } from './components/template/nav/nav.component';
 
 import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatListModule } from '@angular/material/list';
+import { HomeComponent } from './views/home/home.component';
 
 
 
@@ -21,6 +22,7 @@ import { MatListModule } from '@angular/material/list';
     HeaderComponent,
     FooterComponent,
     NavComponent,
+    HomeComponent,
   ],
   imports: [
     BrowserModule,
